@@ -3,6 +3,7 @@ turn_left = 2
 front_is_clear = 2
 at_goal = 2
 right_is_clear = 2
+#ignore above
 
 def turn_right():
     turn_left()
